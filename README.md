@@ -2,7 +2,7 @@
 
 1:cloneしてビルド
 ```
-[mac] $ git clone git@github.com:takahiro-inoway/docker-laravel-handson.git
+[mac] $ git clone git@github.com:takahiro-inoway/docker-laravel-handson.git projectname
 [mac] $ cd docker-laravel-handson
 [mac] $ docker compose up -d
 ```
