@@ -15,6 +15,7 @@ $ git config --list
 2:権限付与とインストール
 ```
 [mac] $ docker compose exec app bash
+[app] $ cd laravel
 [app] $ chmod -R 777 storage bootstrap/cache
 [app] $ composer install
 ```
