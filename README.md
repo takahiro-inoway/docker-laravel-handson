@@ -1,5 +1,10 @@
 # docker-laravel-handson
-
+0:gitの準備
+```
+$ git config --global user.name "takahiro-inoway"
+$ git config --global user.email "takahiro.inoway@email.com"
+$ git config --list
+```
 1:cloneしてビルド
 ```
 [mac] $ git clone git@github.com:takahiro-inoway/docker-laravel-handson.git projectname
