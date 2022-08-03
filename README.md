@@ -6,6 +6,7 @@ $ git config --global user.email "takahiro.inoway@email.com"
 $ git config --list
 ```
 1:cloneしてビルド
+クローン方法について→https://pengi-n.co.jp/blog/github-clone/
 ```
 [mac] $ git clone git@github.com:takahiro-inoway/docker-laravel-handson.git projectname
 [mac] $ cd docker-laravel-handson
